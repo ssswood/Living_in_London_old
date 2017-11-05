@@ -67,6 +67,10 @@ a.none:hover {text-decoration: none;}
 
   .carousel-inner > .item > img,
   .carousel-inner > .item > a > img {
-      width: 70%;
-      margin: auto;
-  }
+        margin: auto;
+        width: auto;
+        height: 150px;
+        max-height: 150px;
+        object-fit: contain;
+}
+
