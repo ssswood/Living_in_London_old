@@ -6,47 +6,6 @@
   font-size: 30px;
 }
 
-.carousel-title {
-<<<<<<< HEAD
-<<<<<<< HEAD
-  font-size: 40px;
-}
-body {
-  font-family: helvetica, sans-serif;
-  max-width: 600px;
-}
-div {
-  height: 200px;
-  background-size: cover;
-  margin: 40px 0 0 0;
-  position: relative;
-  border-radius: 12px;
-}
-.first {
-  background: url("http://dash.ga.co/assets/firstcourse.jpg");
-}
-.second {
-  background: url("http://dash.ga.co/assets/secondcourse.jpg");
-}
-  .dessert { 
-    background: url("http://dash.ga.co/assets/dessertcourse.jpg");
-  }
-  p {
-    color: rgba(255,255,255,1);
-    background: rgba(0,0,0,1);
-    padding: 10px;
-    text-align: justify;
-    line-height: 28px;
-    position: absolute;
-    bottom: 0;
-    margin: 0;
-  }
-=======
-=======
->>>>>>> 2b8440bd8409dea63db35e6f3806c27d351326a7
-  font-size: 60px !important;
-}
-
 #redbutton {
 	background-color: red;
 }
@@ -64,9 +23,35 @@ div {
 	text-align: center;
 	border-radius: 25px;
 
-<<<<<<< HEAD
+  font-size: 40px;
 }
->>>>>>> 2b8440bd8409dea63db35e6f3806c27d351326a7
-=======
+body {
+  font-family: helvetica, sans-serif;
+  max-width: 600px;
 }
->>>>>>> 2b8440bd8409dea63db35e6f3806c27d351326a7
+div {
+  height: 200px;
+  background-size: cover;
+  margin: 40px 0 0 0;
+  position: relative;
+  border-radius: 12px;
+}
+.first {
+  background: url(..images/grey.jpg);
+}
+.second {
+  background: url(..images/grey.jpg);
+}
+  .dessert { 
+    background: url(..images/grey.jpg);
+  }
+  p {
+    color: rgba(255,255,255,1);
+    background: rgba(0,0,0,1);
+    padding: 10px;
+    text-align: justify;
+    line-height: 28px;
+    position: absolute;
+    bottom: 0;
+    margin: 0;
+  }
