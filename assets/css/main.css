@@ -25,17 +25,7 @@
 
   font-size: 40px;
 }
-body {
-  font-family: helvetica, sans-serif;
-  max-width: 600px;
-}
-div {
-  height: 200px;
-  background-size: cover;
-  margin: 40px 0 0 0;
-  position: relative;
-  border-radius: 12px;
-}
+
 .north {
   background: url(..images/grey.jpg);
 }
@@ -45,13 +35,4 @@ div {
 .east { 
   background: url(..images/grey.jpg);
   }
- p {
-    color: rgba(255,255,255,1);
-    background: rgba(0,0,0,1);
-    padding: 10px;
-    text-align: justify;
-    line-height: 28px;
-    position: absolute;
-    bottom: 0;
-    margin: 0;
-  }
+
