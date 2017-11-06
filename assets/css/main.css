@@ -12,7 +12,7 @@ a.none:hover {text-decoration: none;}
 /* Header */
 .top {background-color: #404040;padding: 5px 0;color: #fff;}
 .top p {margin: 0;}
-.top ul {margin: 0;padding: 0;}
+.top ul {margin: 0;padding: 10px;}
 .top li i {color: #fff;}
 .top li a {color: #fff;}
 .top li a:hover {text-decoration: none;}
