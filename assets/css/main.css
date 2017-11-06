@@ -59,10 +59,3 @@ a.none:hover {text-decoration: none;}
         max-height: 150px;
         object-fit: contain;
 }
-.wrapper {
-  height: 200px;
-  width: 100%;
-  background-position: center center;
-  background-size: contain;
-  background-repeat: no-repeat;
-}
