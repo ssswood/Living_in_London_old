@@ -36,16 +36,16 @@ div {
   position: relative;
   border-radius: 12px;
 }
-.first {
+.north {
   background: url(..images/grey.jpg);
 }
-.second {
+.south {
   background: url(..images/grey.jpg);
 }
-  .dessert { 
-    background: url(..images/grey.jpg);
+.east { 
+  background: url(..images/grey.jpg);
   }
-  p {
+ p {
     color: rgba(255,255,255,1);
     background: rgba(0,0,0,1);
     padding: 10px;
